@@ -1,3 +1,22 @@
+# Preface
+The following is the README attached the school project where I made a lexical and syntax analyzer to explore how those parts of a compiler work. It processes a very simple grammar, and was written in GO. Recursion is used for the syntax analyzer. The following images are example results from different input.
+
+# Correct input result:
+![Alt text](https://github.com/IHOGUE/Go-Parser/blob/main/Good.png?raw=true "Good Result")
+
+# Lexical Error:
+![Alt text](https://github.com/IHOGUE/Go-Parser/blob/main/Lexical%20Error.png?raw=true "three Result")
+
+# Syntax Error:
+![Alt text](https://github.com/IHOGUE/Go-Parser/blob/main/Syntax%20Error.png?raw=true "Good Result")
+
+# No Syntax or Lexical errors, but no tests given:
+![Alt text](https://github.com/IHOGUE/Go-Parser/blob/main/Error%20No%20Tests.png?raw=true "Good Result")
+
+# No Sytax or Lexical errors, but an undefined point is given:
+![Alt text](https://github.com/IHOGUE/Go-Parser/blob/main/Error%20Point%20Undefined.png?raw=true "Good Result")
+
+
 # Go Programming Assignment: 4Point Grammar Lexical and Syntax Analysis
 
 
